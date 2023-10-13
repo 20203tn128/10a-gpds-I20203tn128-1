@@ -1,1 +1,3 @@
-const  algo =(){}
+const  algo =()=>{}
+
+const consultar=()=>{}
